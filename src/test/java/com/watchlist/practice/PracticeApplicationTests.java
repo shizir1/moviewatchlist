@@ -1,4 +1,4 @@
-package com.yahoofinance.practice;
+package com.watchlist.practice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

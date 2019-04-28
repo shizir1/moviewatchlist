@@ -1,9 +1,9 @@
-package com.yahoofinance.requestHandler;
+package com.watchlist.requestHandler;
 
-import com.yahoofinance.model.Movie;
-import com.yahoofinance.model.MovieSearchResult;
-import com.yahoofinance.model.SearchResult;
-import com.yahoofinance.practice.PracticeApplication;
+import com.watchlist.model.Movie;
+import com.watchlist.model.MovieSearchResult;
+import com.watchlist.model.SearchResult;
+import com.watchlist.practice.PracticeApplication;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;

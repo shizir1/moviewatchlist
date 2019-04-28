@@ -1,4 +1,4 @@
-package com.yahoofinance.model;
+package com.watchlist.model;
 
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

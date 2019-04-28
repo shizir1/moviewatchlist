@@ -1,9 +1,9 @@
-package com.yahoofinance.io;
+package com.watchlist.io;
 
-import com.yahoofinance.model.Movie;
-import com.yahoofinance.model.MovieSearchResult;
-import com.yahoofinance.repository.MovieRepository;
-import com.yahoofinance.requestHandler.RequestHandler;
+import com.watchlist.model.Movie;
+import com.watchlist.model.MovieSearchResult;
+import com.watchlist.repository.MovieRepository;
+import com.watchlist.requestHandler.RequestHandler;
 import org.springframework.stereotype.Component;
 
 import java.util.List;
